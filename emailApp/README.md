@@ -1,1 +1,1 @@
-# java-mini-projects
+# Email App
